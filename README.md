@@ -2,6 +2,7 @@
 
 Greetings folks. This is a Meditation app example project. 
 
+```
 
  /$$$$$$$  /$$$$$$$  /$$$$$$$$  /$$$$$$  /$$      /$$
 | $$__  $$| $$__  $$| $$_____/ /$$__  $$| $$$    /$$$
@@ -15,3 +16,4 @@ Greetings folks. This is a Meditation app example project.
                                                      
                                                      
 
+```
