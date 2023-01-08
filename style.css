@@ -90,16 +90,11 @@
 
 video {
   position: fixed;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
   top: 0%;
   left: 0%;
   width: 100%;
   z-index: -10;
 }
-.replay {
-  position: absolute;
-  height: 30px;
-  bottom: 30%;
-}
-.play{
-  position: absolute;
-} 
